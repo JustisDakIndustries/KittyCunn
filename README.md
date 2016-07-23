@@ -1,4 +1,4 @@
 # KittyCunn
 A completed Framework for CMS
 
-HTTP://WWW.VIKERUS.COM/LIVEUPDATES.HTML
+HTTP://WWW.VIKERUS.COM/liveupdates.html
